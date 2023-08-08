@@ -1,6 +1,6 @@
 
 # Creative-Web-Design
-Construindo um portfólio através do curso de DXR Zone , Agência de programação criativa e direção de arte
+Construindo um portfólio através do curso de DXR Zone, Agência de programação criativa e direção de arte
 ---
 ## introdução:
   ### sobre nós
@@ -28,6 +28,7 @@ Construindo um portfólio através do curso de DXR Zone , Agência de programaç
         
   ### Criando um Quadro de Humor
   - Agora vamos tratar da curadoria e organização de suas referências para que você possa tirar o máximo proveito delas.
+      [MINHA_ARE.NA](https://www.are.na/janaina-madeira-tannus-teixeira/website-references-ci2_lbioijw?fromOnboarding=true)
 
   ### Fazendo um Sitemap
   - Nesta lição, mostraremos como planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam.
@@ -36,10 +37,11 @@ Construindo um portfólio através do curso de DXR Zone , Agência de programaç
 
 
 
-  
+
+
 ---
 
-## Introdução_recursos adicionais:
+## Introdução_recursos adicionais do curso:
 
 ### Nossas principais influências:
 - [Joseph Pleass](https://josephpleass.com/)
