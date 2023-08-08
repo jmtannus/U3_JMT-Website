@@ -10,10 +10,12 @@ Construindo um portfólio através do curso de DXR Zone, Agência de programaç�
 ---
 ## Planejamento e Projeto
   ### Construindo o Conceito
-  - Nesta unidade, abordaremos a preparação necessária para a construção de um site antes de começar a escrever o código. Iremos guiá-lo na criação de um conceito, na coleta de material de referência e no design do site.
-  - Em primeiro lugar, mostraremos como criar um conceito inicial para seu site, a fim de fornecer a você mesmo um briefing sólido para trabalhar durante as etapas de coleta de referência e design.
+ <!-- Notas do autor:  - Nesta unidade, abordaremos a preparação necessária para a construção de um site antes de começar a escrever o código. Iremos guiá-lo na criação de um conceito, na coleta de material de referência e no design do site.-->
+ 
+ <!-- - Em primeiro lugar, mostraremos como criar um conceito inicial para seu site, a fim de fornecer a você mesmo um briefing sólido para trabalhar durante as etapas de coleta de referência e design. -->
+ 
   ### Coletando Referências
-  - Nesta lição, discutiremos a pesquisa e a coleta de referências relevantes para ajudar a inspirar e informar seus projetos.
+  <!-- - Nesta lição, discutiremos a pesquisa e a coleta de referências relevantes para ajudar a inspirar e informar seus projetos. -->
       
        MINHAS REFERENCIAS:
     
@@ -27,11 +29,11 @@ Construindo um portfólio através do curso de DXR Zone, Agência de programaç�
    
         
   ### Criando um Quadro de Humor
-  - Agora vamos tratar da curadoria e organização de suas referências para que você possa tirar o máximo proveito delas.
+  <!-- - Agora vamos tratar da curadoria e organização de suas referências para que você possa tirar o máximo proveito delas. -->
       [MINHA_ARE.NA](https://www.are.na/janaina-madeira-tannus-teixeira/website-references-ci2_lbioijw?fromOnboarding=true)
 
   ### Fazendo um Sitemap
-  - Nesta lição, mostraremos como planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam.
+  <!-- - Nesta lição, mostraremos como planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam. -->
 
 
 
@@ -41,7 +43,7 @@ Construindo um portfólio através do curso de DXR Zone, Agência de programaç�
 
 ---
 
-## Introdução_recursos adicionais do curso:
+<!-- ## Introdução_recursos adicionais do curso:
 
 ### Nossas principais influências:
 - [Joseph Pleass](https://josephpleass.com/)
@@ -77,4 +79,4 @@ Livros Mencionados
   Este livro dos anos noventa é muito divertido se você estiver interessado em ver o quanto mudou na internet, mas também o quanto permaneceu igual.
 
 - [DK Pockets: Gemstones por Emma Foa](https://www.goodreads.com/book/show/318952.DK_Pockets)
-  Um fato engraçado sobre nós é que somos ambos enormes acumuladores. Este livro é um ótimo exemplo disso - não apenas porque nós mesmos coletamos pedras preciosas por um tempo, mas também porque serve para ilustrar simbolicamente as muitas coisas que a codificação permite que você faça. Veja, você provavelmente nunca será capaz de comprar e coletar todas as pedras preciosas do mundo, mas por meio do código você pode construir algo que seja igualmente significativo para você.
+  Um fato engraçado sobre nós é que somos ambos enormes acumuladores. Este livro é um ótimo exemplo disso - não apenas porque nós mesmos coletamos pedras preciosas por um tempo, mas também porque serve para ilustrar simbolicamente as muitas coisas que a codificação permite que você faça. Veja, você provavelmente nunca será capaz de comprar e coletar todas as pedras preciosas do mundo, mas por meio do código você pode construir algo que seja igualmente significativo para você. -->
