@@ -1,39 +1,38 @@
-
 # Creative-Web-Design
 Construindo um portfólio através do curso de DXR Zone, Agência de programação criativa e direção de arte
 ---
+
 ## introdução:
   ### sobre nós
   ### influencias
   ### o que faremos neste curso
 
 ---
+
 ## Planejamento e Projeto
   ### Construindo o Conceito
- <!-- Notas do autor:  - Nesta unidade, abordaremos a preparação necessária para a construção de um site antes de começar a escrever o código. Iremos guiá-lo na criação de um conceito, na coleta de material de referência e no design do site.-->
- 
- <!-- - Em primeiro lugar, mostraremos como criar um conceito inicial para seu site, a fim de fornecer a você mesmo um briefing sólido para trabalhar durante as etapas de coleta de referência e design. -->
+ <!-- Notas do autor:  - Nesta unidade, abordaremos a preparação necessária para a construção de um site antes de começar a escrever o código. Iremos guiá-lo na criação de um conceito, na coleta de material de referência e no design do site. 
+                      - Em primeiro lugar, mostraremos como criar um conceito inicial para seu site, a fim de fornecer a você mesmo um briefing sólido para trabalhar durante as etapas de coleta de referência e design. -->
  
   ### Coletando Referências
   <!-- - Nesta lição, discutiremos a pesquisa e a coleta de referências relevantes para ajudar a inspirar e informar seus projetos. -->
       
-       MINHAS REFERENCIAS:
-    
-       **Imagem**:Alçar voo. Da artista Cearense Efigenia Coeelho
-    
-       **Website**: hoverstat.es Enorme arquivo que posso examinar. Serve de inspiração 
-      -sandspiel.club
-          
-       **Website**: loarmo.re
+  MINHAS REFERENCIAS: </br>
+   > **Imagem**: Alçar voo. Da artista Cearense Efigenia Coeelho </br>
+    **Website**: hoverstat.es Enorme arquivo que posso examinar. Serve de inspiração 
+      -sandspiel.club </br>
+   > **Website**: loarmo.re
       - loadmo/posts/toph-tucker
-   
         
   ### Criando um Quadro de Humor
   <!-- - Agora vamos tratar da curadoria e organização de suas referências para que você possa tirar o máximo proveito delas. -->
-      [MINHA_ARE.NA](https://www.are.na/janaina-madeira-tannus-teixeira/website-references-ci2_lbioijw?fromOnboarding=true)
+
+  MEU MOODBOARD: </br>
+   > **Quadro de humor**: [MINHA_ARE.NA](https://www.are.na/janaina-madeira-tannus-teixeira/website-references-ci2_lbioijw?fromOnboarding=true)
 
   ### Fazendo um Sitemap
   <!-- - Nesta lição, mostraremos como planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam. -->
+  
 
 
 
