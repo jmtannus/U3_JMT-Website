@@ -40,7 +40,25 @@ Gostamos de colocar nossas referências em um quadro de humor para que possamos 
   <!-- - Planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam. 
   Em seguida, é hora de se concentrar na funcionalidade do seu site. Qual é a jornada que seu usuário fará em torno de sua página inicial a partir do momento em que acessá-la pela primeira vez? Pode ser tão simples ou tão complicado quanto você quiser - talvez seu site seja de uma página muito simples, ou talvez tenha seções para percorrer, ou talvez contenha várias páginas! Fazer um mapa do site no estilo de um fluxograma para 'mapear' essa jornada ajudará você a contextualizar o site em sua mente e tornar o processo de design a seguir muito mais fácil.
 Para criar seu mapa do site, você pode usar Figma, Google Slides, Photoshop ou qualquer outro software de design de sua escolha. Se você preferir o analógico, pode até criar um mapa do site da maneira clássica - com lápis e papel! Seja qual for o caso, não hesite em compartilhar o mapa do site no fórum quando terminar.-->
+
+Exemplo de fluxograma básico e funcional de um site mais complexo : </br>
   ![sitemap](https://assets3.domestika.org/course-images/000/026/153/26153-big.png)
+
+Exemplo de fluxograma básico e funcional de um site tipo portfólio, mais simples:</br>
+  ![sitemap-portfolio](https://github.com/jmtannus/Creative-Web-Design/assets/61756665/4fc3729a-e992-4b80-ad27-f9079294866e)
+
+  MEU SITEMAP: </br>
+   > **Mapa do site**: </br> ![image 40%](https://github.com/jmtannus/Creative-Web-Design/assets/61756665/bbe49031-12c7-4267-921b-e0b1043ee281) </br>
+   > **landing page** -> Onde as coisas divertidas ficam. </br>
+   > **sobre nós** -> Manter o "sobre nós" bom e pequeno, deve garantir que o usuario tenha uma experiência divertida completa com a "landing page" e as "seções de trabalho". Acessa se o usuário precisar. </br>
+   > **seções de trabalho** -> </br>
+   > **contatos** -> Depois de passar por todas as coisas divertidas, tem os detalhes do contato. Acessa se precisar. </br>
+
+  ### Apresentando propostas de design
+  <!-- Criar o design plano do seu site. Para isso, estaremos utilizando a plataforma Figma. 
+  É aqui que as coisas começam a ficar um pouco mais emocionantes! Agora que você tem uma ideia mais clara de suas inspirações e da jornada que o usuário fará pelo site, está pronto para começar a projetar. Novamente, use qualquer ferramenta que funcione melhor para você para projetar seu site, embora seja altamente recomendável usar o Figma, pois é gratuito e tem muitas funções úteis para ajudá-lo a projetar para a web. Se você estiver se sentindo travado, consulte novamente o quadro de humor e o mapa do site. Trabalhe metodicamente, colocando primeiro os elementos mais óbvios e funcionais e daí em diante. Essa sensação de 'tela em branco' pode ser assustadora no início da criação de qualquer design e pode causar um certo bloqueio mental. Descobrimos que o melhor remédio para isso é pensar no site puramente em termos de funcionalidade e não se criticar pelo mérito artístico do que você está projetando - esta parte tende a seguir naturalmente depois que você iniciar seu design. -->
+  
+  
 
 
 
