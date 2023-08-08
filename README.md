@@ -15,7 +15,10 @@ Construindo um portfólio através do curso de DXR Zone, Agência de programaç�
                       - Em primeiro lugar, mostraremos como criar um conceito inicial para seu site, a fim de fornecer a você mesmo um briefing sólido para trabalhar durante as etapas de coleta de referência e design. -->
  
   ### Coletando Referências
-  <!-- - Nesta lição, discutiremos a pesquisa e a coleta de referências relevantes para ajudar a inspirar e informar seus projetos. -->
+  <!-- - Nesta lição, discutiremos a pesquisa e a coleta de referências relevantes para ajudar a inspirar e informar seus projetos. 
+  Para começar, é sempre muito útil ter uma coleção decente de sites de referência para que você possa formular uma ideia do que está tentando construir e o tipo de sensação que gostaria que seu site acabado tivesse. Ter essas referências para inspiração no estilo e na função sempre nos ajuda a permanecer no caminho certo. Freqüentemente achamos que pular esse estágio pode ser tentador, pois queremos pular direto para o projeto e a construção, mas ter uma base sólida no que estamos tentando alcançar torna o resto do processo muito mais suave! Você sabe o que eles dizem - falhe em se preparar, prepare-se para falhar.
+Não sinta que precisa se limitar a apenas olhar para sites em busca de inspiração - claro, isso é inestimável, mas você definitivamente também deve dar uma olhada no design gráfico, objetos, sons e tudo o mais que flutue em seu barco!-->
+![referencias-de-inspiracao](https://assets3.domestika.org/course-images/000/025/483/25483-big.png)
       
   MINHAS REFERENCIAS: </br>
    > **Imagem**: Alçar voo. Da artista Cearense Efigenia Coeelho </br>
@@ -25,14 +28,19 @@ Construindo um portfólio através do curso de DXR Zone, Agência de programaç�
       - loadmo/posts/toph-tucker
         
   ### Criando um Quadro de Humor
-  <!-- - Agora vamos tratar da curadoria e organização de suas referências para que você possa tirar o máximo proveito delas. -->
+  <!-- - Trata da curadoria e organização de suas referências para que você possa tirar o máximo proveito delas.
+  Agora que você tem seu material de referência em mãos, é hora de organizá-lo de uma forma que seja fácil para você consultar. Pode ser um quadro de humor, uma pilha em sua mesa, uma pasta em seu computador - apenas certifique-se de que seja intuitivo e fácil de olhar. Quando terminar, compartilhe seu quadro de humor no fórum!
+Gostamos de colocar nossas referências em um quadro de humor para que possamos vê-las todas de uma vez e ter uma visão geral. Também ajuda a restringir os itens individuais sem muita dificuldade. Nossa ferramenta favorita para este trabalho específico é [Are.na](https://www.are.na/) , uma plataforma de pesquisa criativa que você pode encontrar mais adiante nos recursos adicionais. Ele permite que você reúna quadros de humor concisos e úteis com imagens, vídeos e links bem exibidos. É como o Pinterest, mas mais limpo e mais adequado para coletar referências de sites. -->
+![moodboard](https://assets7.domestika.org/course-images/000/025/487/25487-big.png)
 
   MEU MOODBOARD: </br>
    > **Quadro de humor**: [MINHA_ARE.NA](https://www.are.na/janaina-madeira-tannus-teixeira/website-references-ci2_lbioijw?fromOnboarding=true)
 
-  ### Fazendo um Sitemap
-  <!-- - Nesta lição, mostraremos como planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam. -->
-  
+  ### Fazendo um Sitemap (fluxograma de navegação)
+  <!-- - Planejar a jornada do usuário pelo seu site para ter uma ideia mais clara de quais páginas precisam ser projetadas e como todas elas se vinculam. 
+  Em seguida, é hora de se concentrar na funcionalidade do seu site. Qual é a jornada que seu usuário fará em torno de sua página inicial a partir do momento em que acessá-la pela primeira vez? Pode ser tão simples ou tão complicado quanto você quiser - talvez seu site seja de uma página muito simples, ou talvez tenha seções para percorrer, ou talvez contenha várias páginas! Fazer um mapa do site no estilo de um fluxograma para 'mapear' essa jornada ajudará você a contextualizar o site em sua mente e tornar o processo de design a seguir muito mais fácil.
+Para criar seu mapa do site, você pode usar Figma, Google Slides, Photoshop ou qualquer outro software de design de sua escolha. Se você preferir o analógico, pode até criar um mapa do site da maneira clássica - com lápis e papel! Seja qual for o caso, não hesite em compartilhar o mapa do site no fórum quando terminar.-->
+  ![sitemap](https://assets3.domestika.org/course-images/000/026/153/26153-big.png)
 
 
 
@@ -42,7 +50,7 @@ Construindo um portfólio através do curso de DXR Zone, Agência de programaç�
 
 ---
 
-<!-- ## Introdução_recursos adicionais do curso:
+<!-- ## INTRODUÇÃO_RECURSOS ADICIONAIS do curso:
 
 ### Nossas principais influências:
 - [Joseph Pleass](https://josephpleass.com/)
@@ -79,3 +87,21 @@ Livros Mencionados
 
 - [DK Pockets: Gemstones por Emma Foa](https://www.goodreads.com/book/show/318952.DK_Pockets)
   Um fato engraçado sobre nós é que somos ambos enormes acumuladores. Este livro é um ótimo exemplo disso - não apenas porque nós mesmos coletamos pedras preciosas por um tempo, mas também porque serve para ilustrar simbolicamente as muitas coisas que a codificação permite que você faça. Veja, você provavelmente nunca será capaz de comprar e coletar todas as pedras preciosas do mundo, mas por meio do código você pode construir algo que seja igualmente significativo para você. -->
+
+---
+
+<!-- ## PLANEJAMENTO _RECURSOS ADICIONAIS do curso:
+[Are.na](https://www.are.na/) Board
+["Referências de website"](https://www.are.na/dxr-zone/website-references-li3rrnmvgtk)
+Este é o nosso quadro Are.na de referências de sites.
+
+Figma Design
+["Website da zona DXR"](https://www.figma.com/file/3hGoArAE2PEGYoJHIjdBwQ/DXR-Zone-Website?node-id=0%3A1)
+Este é o nosso design plano de site, criado em Figma.
+
+Mais inspiração no Domestika
+[O blog Domestika](https://www.domestika.org/en/blog)
+Dê uma olhada no blog do Domestika, onde você pode encontrar muitos conteúdos interessantes que podem despertar sua criatividade.
+
+["O que a maioria dos sites tem em comum"](https://www.domestika.org/en/blog/5663-what-most-websites-have-in-common)
+["Ferramentas criativas: HTML"](https://www.domestika.org/en/blog/3857-creative-tools-html) -->
