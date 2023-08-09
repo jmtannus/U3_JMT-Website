@@ -117,6 +117,9 @@ Figma Design
 ["Website da zona DXR"](https://www.figma.com/file/3hGoArAE2PEGYoJHIjdBwQ/DXR-Zone-Website?node-id=0%3A1)
 Este é o nosso design plano de site, criado em Figma.
 
+Lorem Ipsum
+[criador de texto](https://loremipsum.io)
+
 Mais inspiração no Domestika
 [O blog Domestika](https://www.domestika.org/en/blog)
 Dê uma olhada no blog do Domestika, onde você pode encontrar muitos conteúdos interessantes que podem despertar sua criatividade.
