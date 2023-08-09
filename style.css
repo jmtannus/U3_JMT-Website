@@ -1,3 +1,68 @@
 body {
     background: #F6F2EB;
 }
+
+* {
+    font-family: sans-serif;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.gallery__img {
+    widht: 100%;  
+}
+
+.section--top {
+    height: 100vh;     
+}
+
+.section--about {
+    padding-left: 20%;
+    padding-right: 20%; 
+    padding-top: 40%;
+}
+
+.about__text {
+    padding-botton: 40px;
+}
+.border {
+    border-top: 1px solid #000000;
+}
+
+.img--logo {
+    widht: 100wh;
+    position: absolute;       
+}
+
+.img--draw-in-a-book {
+    top: 0;     
+}
+
+
+
+
+
+.gallery__item {
+    padding-left: 10%;
+    padding-right: 10%; 
+    padding-top: 10%;
+    padding-botton: 60%;
+}
+
+.contact__inner {
+    display: flex;
+}
+
+.contact_column {
+    widht: 50%;
+}
+
+@media(min-widht: 500px) {
+    .gallery__item {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+}
