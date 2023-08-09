@@ -52,6 +52,12 @@ a {
     padding-botton: 60%;
 }
 
+
+.section--contact {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .contact__inner {
     display: flex;
 }
