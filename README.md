@@ -108,7 +108,7 @@ Livros Mencionados
 
 ---
 
-<!-- ## PLANEJAMENTO _RECURSOS ADICIONAIS do curso:
+<!-- ## PLANEJAMENTO_RECURSOS ADICIONAIS do curso:
 [Are.na](https://www.are.na/) Board
 ["Referências de website"](https://www.are.na/dxr-zone/website-references-li3rrnmvgtk)
 Este é o nosso quadro Are.na de referências de sites.
@@ -126,3 +126,25 @@ Dê uma olhada no blog do Domestika, onde você pode encontrar muitos conteúdos
 
 ["O que a maioria dos sites tem em comum"](https://www.domestika.org/en/blog/5663-what-most-websites-have-in-common)
 ["Ferramentas criativas: HTML"](https://www.domestika.org/en/blog/3857-creative-tools-html) -->
+
+<!-- ## CONSTRUÇÃO E EDIFICAÇÃO_RECURSOS ADICIONAIS do curso
+
+As ferramentas necessárias
+[Atom](https://atom.io/)
+O software de edição de código que estamos usando para escrever nosso código. O Atom é gratuito para baixar e usar e vem com recursos úteis para tornar a vida mais fácil enquanto você codifica.
+
+[Google Chrome](https://www.google.co.uk/chrome/)
+Nosso navegador favorito para o desenvolvimento de sites, sem dúvida.
+
+Referências W3Schools
+["Referência do elemento HTML"](https://www.w3schools.com/TAGS/default.ASP)
+Uma lista realmente útil de todos os diferentes elementos HTML e seus usos específicos. W3Schools é um recurso incrível com muitas informações úteis para ajudá-lo a aprender ou simplesmente atualizar seu conhecimento sobre todos os aspectos do código para a web.
+
+["Referência CSS"](https://www.w3schools.com/cssref/default.asp)
+Uma lista exaustiva de todas as diferentes propriedades CSS que você pode usar, explicando seus usos específicos.
+
+["Referência do seletor CSS"](https://www.w3schools.com/cssref/css_selectors.asp)
+Uma lista exaustiva de todos os diferentes tipos de seletores CSS que você pode usar e como usá-los, abrangendo coisas como classes, ids e muito mais.
+
+["Tutorial de JavaScript"](https://www.w3schools.com/js/default.asp)
+Uma incrível coleção de informações sobre JavaScript. Muito útil, não importa se você está apenas começando ou precisa recarregar e atualizar seus conhecimentos! -->
