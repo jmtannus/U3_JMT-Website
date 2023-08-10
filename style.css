@@ -21,7 +21,7 @@ img {
                 user-select: none;
 }
   
-  a {
+a {
     color: #000000;
     text-decoration: none;
 }
@@ -29,7 +29,7 @@ img {
 .section {
     position: relative;
     width: 100vw;
-  }
+}
   
 .section--top {
     height: 100%;
