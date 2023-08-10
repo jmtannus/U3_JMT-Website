@@ -1,5 +1,5 @@
-let rifke;
-let dan;
+let goldSunflower;
+let sunflower;
 let mouseIsDown = false;
 const imageWidth = 150;
 let paintbrush;
@@ -8,9 +8,9 @@ const handleMouseDown = () => {
   mouseIsDown = true;
   let randomNumber = Math.random();
   if (randomNumber < 0.5) {
-    paintbrush = dan;
+    paintbrush = sunflower;
   } else {
-    paintbrush = rifke;
+    paintbrush = goldSunflower;
   }
 }
 
@@ -41,10 +41,10 @@ const context = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-rifke = document.createElement('img');
-rifke.src = 'images/rifke.png';
-dan = document.createElement('img');
-dan.src = 'images/dan.png';
+goldSunflower = document.createElement('img');
+goldSunflower.src = 'images/goldSunflower.png';
+sunflower = document.createElement('img');
+sunflower.src = 'images/sunflower.png';
 
 canvas.addEventListener('mousemove', handleMouseMove);
 window.addEventListener('mousedown', handleMouseDown);
