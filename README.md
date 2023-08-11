@@ -146,7 +146,40 @@ Uma lista realmente útil de todos os diferentes elementos HTML e seus usos espe
 Uma lista exaustiva de todas as diferentes propriedades CSS que você pode usar, explicando seus usos específicos.
 
 ["Referência do seletor CSS"](https://www.w3schools.com/cssref/css_selectors.asp)
+
 Uma lista exaustiva de todos os diferentes tipos de seletores CSS que você pode usar e como usá-los, abrangendo coisas como classes, ids e muito mais.
 
 ["Tutorial de JavaScript"](https://www.w3schools.com/js/default.asp)
 Uma incrível coleção de informações sobre JavaScript. Muito útil, não importa se você está apenas começando ou precisa recarregar e atualizar seus conhecimentos! -->
+
+<!-- ## Going Live_RECURSOS ADICIONAIS do curso:
+
+Colocando Seu Site Online
+[Netlify](https://www.netlify.com/?attr=homepage-modal)
+É aqui que colocamos nosso site online! A Netlify tem um plano gratuito que é muito generoso. Você também pode comprar o nome de domínio (URL) do seu site aqui se desejar, embora seja livre para manter o URL padrão do Netlify se não quiser pagar!
+
+Testando Seu Site
+[BrowserStack](https://www.browserstack.com/)
+Uma ferramenta extremamente útil para testar sites em diferentes navegadores, sistemas operacionais e dispositivos que você pode não ter em mãos. O BrowserStack oferece um teste gratuito que permite que você teste por até um minuto em cada dispositivo disponível (o que geralmente é suficiente!).
+
+Encontrando respostas para seus problemas
+[Stack Overflow](https://stackoverflow.com/)
+Um ótimo lugar para encontrar respostas a quaisquer perguntas sobre código ou bugs. Freqüentemente, as pessoas se deparam com os mesmos problemas e alguém já fez a pergunta que você deseja fazer - mas se não fez, você pode se inscrever e fazer a pergunta para que as pessoas ajudem você! Stack Overflow é gratuito e um dos sites que consideramos mais úteis.
+
+Site da Zona DXR
+[Site](https://dxr-zone-domestika.netlify.app/)
+Confira este link para dar uma olhada em nosso web design final.
+
+Como publicar seus projetos no Domestika
+[Dicas para publicar seus projetos](https://www.domestika.org/pt/blog/8101-how-to-publish-your-projects-on-domestika)
+Compartilhe seu trabalho, objetivos, técnicas e até dúvidas sobre seu processo criativo. Dentro da comunidade Domestika, você pode publicar o projeto final do seu curso ou qualquer outro trabalho que você tenha criado.
+
+Gostaríamos de convidá-lo para a unidade "Projeto Final". Lá, daremos algumas dicas adicionais para seu projeto final. Você também verá um exemplo de como gostaríamos de ver todo o seu processo. Se você tiver alguma dúvida sobre como fazer o upload, consulte este guia. Até a próxima unidade!
+
+Versão em inglês
+Versão em espanhol
+Versão em português
+
+Projetos em destaque
+[Projetos em destaque na comunidade Domestika](https://www.domestika.org/pt/projects/featured)
+A comunidade Domestika está cheia de criativos compartilhando seus projetos de todas as disciplinas. Se você está procurando inspiração para seus projetos, dê uma olhada neste link. Não tenha medo de comentar e participar, a conversa estimula a criatividade! -->
