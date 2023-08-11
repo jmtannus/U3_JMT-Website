@@ -127,7 +127,7 @@ Dê uma olhada no blog do Domestika, onde você pode encontrar muitos conteúdos
 ["O que a maioria dos sites tem em comum"](https://www.domestika.org/en/blog/5663-what-most-websites-have-in-common)
 ["Ferramentas criativas: HTML"](https://www.domestika.org/en/blog/3857-creative-tools-html) -->
 
-netfly: https://app.netlify.com/
+netfly: [meu site]([https://app.netlify.com/](https://app.netlify.com/sites/jmtannus-portfolio/configuration/domain))
 
 <!-- ## CONSTRUÇÃO E EDIFICAÇÃO_RECURSOS ADICIONAIS do curso
 
