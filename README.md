@@ -57,14 +57,66 @@ Exemplo de fluxograma básico e funcional de um site tipo portfólio, mais simpl
   ### Apresentando propostas de design
   <!-- Criar o design plano do seu site. Para isso, estaremos utilizando a plataforma Figma. 
   É aqui que as coisas começam a ficar um pouco mais emocionantes! Agora que você tem uma ideia mais clara de suas inspirações e da jornada que o usuário fará pelo site, está pronto para começar a projetar. Novamente, use qualquer ferramenta que funcione melhor para você para projetar seu site, embora seja altamente recomendável usar o Figma, pois é gratuito e tem muitas funções úteis para ajudá-lo a projetar para a web. Se você estiver se sentindo travado, consulte novamente o quadro de humor e o mapa do site. Trabalhe metodicamente, colocando primeiro os elementos mais óbvios e funcionais e daí em diante. Essa sensação de 'tela em branco' pode ser assustadora no início da criação de qualquer design e pode causar um certo bloqueio mental. Descobrimos que o melhor remédio para isso é pensar no site puramente em termos de funcionalidade e não se criticar pelo mérito artístico do que você está projetando - esta parte tende a seguir naturalmente depois que você iniciar seu design. -->
-  
-  
 
+---
 
+## Construção e codificação
+Nesta unidade, mostraremos como codificar seu site usando três linguagens: HTML, CSS e JavaScript. Também mostraremos qual software baixar e como usá-lo.
 
+### Definindo as fundações 
+Agora vamos baixar o software para codificar e visualizar seu site. Claro, também vamos explicar como funciona!
 
+### Fazendo a estrutura básica em HTML 1 e 2
+1 - Nesta lição, mostraremos como criar sua página da web básica usando HTML. Pense nisso como a estrutura central "em branco" do seu site.
+2 - Vamos dar uma olhada em como as coisas estão progredindo antes de passar para a próxima lição, na qual vamos estilizar nosso site usando CSS.
 
+### Elementos de estilo em CSS 1 e 2
+1 - Agora iremos adicionar estilos e formatação ao nosso site em CSS. Pegaremos nossa página de aparência chata e torná-la algo mais empolgante.
+2 - O resto do site ainda precisa de um pouco de amor. Vamos continuar adicionando mais alguns elementos de estilo!
 
+## Adicionando Interações em Javascript 1 e 2
+1 - Nesta lição, mostraremos como você pode adicionar interatividade ao seu site usando JavaScript.
+2 - Para que nossa função seja executada especificamente quando nosso mouse se move, vamos agora trabalhar um pouco mais nisso. 
+
+---
+
+## Going Live
+Nesta unidade, mostraremos como colocar seu site no ar. Também abordaremos como testar, consertar e depurar seu site.
+
+### Lançamento do site
+Agora vamos mostrar como colocar seu site no ar na internet usando o Netlify.
+
+### Testando o site com usuários 
+Nesta lição, falaremos sobre como testar seu site para quaisquer problemas e bugs antes de anunciá-lo para o mundo.
+
+### Alterações baseadas em testes do usuário 
+Vamos agora mostrar como corrigir quaisquer bugs e problemas que você possa ter encontrado anteriormente.
+
+## Projeto final
+Documente toda a evolução do seu projeto: desde a sua proposta inicial até a versão final, aplicando as alterações feitas com base no feedback do professor (lembre-se de mencioná-lo para que ele possa ver as alterações!). Seu processo pode ajudar outros criativos.
+
+<!-- WEB DESIGN CRIATIVO: PLANEJAMENTO E PROGRAMAÇÃO DO ZERO
+Agora chegamos ao final do curso. Obrigado por se juntar a nós e por nos acompanhar até aqui! Há muitas informações a serem incorporadas, então esperamos que você se sinta orgulhoso do quão longe você chegou. Resumiremos os pontos mais importantes a serem considerados ao trabalhar em seu projeto final, mas se houver algo que você precise examinar novamente com mais profundidade, você pode sempre voltar para as lições anteriores.
+
+Agora você tem todas as ferramentas de que precisa para projetar e construir um site simples e interativo. Para fazer isso, lembre-se de não pular a primeira etapa de reunir ideias e referências. Pode ser tentador, mas ir além irá realmente ajudá-lo mais tarde, pois tornará muito mais fácil decidir o que o site precisa fazer.
+Depois de ter uma visão do seu site e de quem vai usá-lo, é hora de projetar um protótipo. Usando HTML, CSS e JavaScript, vá em frente e escreva o código do seu site.
+Quando terminar, é hora de colocar seu site online e ir ao ar. Não se preocupe com os problemas que ele possa ter neste momento - você o testará e corrigirá os bugs à medida que avança.
+Se houver alguma coisa em que você esteja travado, vá em frente e faça suas perguntas no fórum. Estamos aqui para ajudar, mas não se preocupe, caso não responda imediatamente. Nesse ínterim, temos certeza de que seus colegas de curso também estarão lá para ajudar. É ótimo poder obter uma variedade de vozes diferentes! Da mesma forma, se você pode ajudar um colega de curso, não hesite - isso apenas fortalecerá sua própria compreensão.
+
+Claro, também adoraríamos ver seu site final no fórum! Faça o upload clicando no botão "Crie seu projeto" mais acima. Além disso, você pode compartilhar seu trabalho árduo nas redes sociais usando a hashtag #DXRZoneDomestika !
+
+Quando você se sentir razoavelmente confortável com as etapas que vimos neste curso, use o que você aprendeu como base para continuar a construir seu conhecimento. Lembre-se que ninguém sabe tudo e que mesmo os mais experientes tecnólogos criativos ainda estão aprendendo o tempo todo!
+
+Mais uma vez, muito obrigado por sua participação e engajamento ativos. Fale com você no [fórum](https://www.domestika.org/pt/courses/2309-web-design-criativo-planejamento-e-programacao-do-zero/community/forum)!
+-->
+[Projetos finais do curso:](https://www.domestika.org/pt/courses/2309-web-design-criativo-planejamento-e-programacao-do-zero/projects)
+
+### Projetos recentes:
+https://www.domestika.org/pt/spshukl2
+https://www.domestika.org/pt/projects/1640625-my-project-site-for-video-music
+https://www.domestika.org/pt/projects/1633951-my-project-for-course-creative-web-design-planning-and-coding-from-scratch
+https://www.domestika.org/pt/projects/1632109-diseno-web-creativo-planificacion-y-programacion-desde-cero
+https://www.domestika.org/pt/projects/new?course=2309-web-design-criativo-planejamento-e-programacao-do-zero
 
 ---
 
